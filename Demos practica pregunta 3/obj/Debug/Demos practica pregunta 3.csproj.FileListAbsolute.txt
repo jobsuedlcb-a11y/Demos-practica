@@ -1,0 +1,8 @@
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\bin\Debug\Demos practica pregunta 3.exe.config
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\bin\Debug\Demos practica pregunta 3.exe
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\bin\Debug\Demos practica pregunta 3.pdb
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\obj\Debug\Demos practica pregunta 3.csproj.AssemblyReference.cache
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\obj\Debug\Demos practica pregunta 3.csproj.CoreCompileInputs.cache
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\obj\Debug\Demos practica pregunta 3.exe
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\obj\Debug\Demos practica pregunta 3.pdb
+C:\Users\Jobsue\source\repos\Demos practica pregunta 3\Demos practica pregunta 3\obj\Debug\Demos practica pregunta 3.exe.config
